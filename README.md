@@ -30,4 +30,5 @@ func main() {
         fmt.Println("There was an error:", err)
         return
     }
+    fmt.Println(message)
 }
