@@ -3,9 +3,12 @@
 This package lets a very simple form to get Grettings in Go.
 
 ## Installation
-go mod init testhello
 
 Execute this command for install this package:
+
+```bash
+go mod init testhello
+```
 
 ```bash
 go get github.com/ferbj/greetings
